@@ -1,0 +1,12 @@
+<suite name="Regression TestSuite">
+<test name="groupsdemo">
+<groups>
+<run>
+<include name="cars"/>
+</run>
+</groups>
+<classes>
+<class name="testclasses.testng_grouping"/>
+</classes>
+</test>
+</suite>

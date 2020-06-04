@@ -1,0 +1,21 @@
+<suite name="Regression TestSuite">
+<test name="GroupsDemo">
+<groups>
+<define name="all">
+<include name="bikes"/>
+<include name="suv"/>
+<include name="sedan"/>
+</define>
+<define name="nobikes">
+<include name="suv"/>
+<include name="sedan"/>
+</define>
+<run>
+<include name="all"/>
+</run>
+</groups>
+<classes>
+<class name="testclasses.testng_grouping"/>
+</classes>
+</test>
+</suite>

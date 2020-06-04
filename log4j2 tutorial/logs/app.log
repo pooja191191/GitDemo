@@ -1,0 +1,7 @@
+15:22:45.409 DEBUG demo.loggingdemo -Debug Message Logged
+15:22:45.413 INFO  demo.loggingdemo -Info Message Logged
+15:22:45.414 ERROR demo.loggingdemo -Error Message Logged
+15:22:45.414 FATAL demo.loggingdemo -Fatal Message Logged
+15:23:20.653 INFO  letskodeit.loggingfile -Info Message Logged
+15:23:20.657 ERROR letskodeit.loggingfile -Error Message Logged
+15:23:20.657 FATAL letskodeit.loggingfile -Fatal Message Logged

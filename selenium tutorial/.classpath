@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/apache-commons-io/commons-io-2.6.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/extentreport/extentreports-2.40.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/extentreport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/extentreport/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/extentreport/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-examples-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-excelant-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-ooxml-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-ooxml-schemas-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/poi-scratchpad-3.11-beta2-20140822.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/poi apache/poi-3.11-beta2/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/mysql/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/mangodb driver/mongo-java-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/mangodb driver/mongo-java-driver-3.0.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/microsoft/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" sourcepath="C:/Users/microsoft/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="log4j"/>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.version" value="1.2.17"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/microsoft/eclipse-workspace/libs/commons-lang3-3.10/commons-lang3-3.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

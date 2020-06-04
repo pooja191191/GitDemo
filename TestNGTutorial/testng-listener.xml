@@ -1,0 +1,17 @@
+
+
+-<suite name="Listeners TestSuite">
+
+
+-<test name="Application Test">
+
+
+-<classes>
+
+<class name="testclasses.testng_listenerstest1"/>
+
+</classes>
+
+</test>
+
+</suite>

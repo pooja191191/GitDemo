@@ -1,0 +1,36 @@
+
+
+-<suite name="Listeners TestSuite">
+
+
+-<listeners>
+
+<listener class-name="listenerspackage.customlistener3"/>
+
+</listeners>
+
+
+-<test name="Application Test 1">
+
+
+-<classes>
+
+<class name="testclasses.testng_listenerstest1"/>
+
+</classes>
+
+</test>
+
+
+-<test name="Application Test 2">
+
+
+-<classes>
+
+<class name="testclasses.testng_listenerstest2"/>
+
+</classes>
+
+</test>
+
+</suite>
